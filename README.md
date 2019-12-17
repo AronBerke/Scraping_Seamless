@@ -7,10 +7,10 @@ My second project at NYC Data Science Academy. The code in this repository scrap
 This code was written by Aron Berke to be used for non-commercial (academic in nature) purposes.
 
 ## Layout
-...
+The seamless_selenium_scraper file contians code to retrieve the relevant urls from Seamless search results, and then scrape those urls for the appropriate data. The ratings_analysis file contains code to conduct the analysis required to answer the project's central questions.
 
 ## Final Output
-Please feel free to email me if you'd like to view a copy of the presentation associated with this project
+Please feel free to email me if you'd like to view a copy of the presentation associated with this project.
 
 
 
